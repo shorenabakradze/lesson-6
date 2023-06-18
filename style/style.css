@@ -114,16 +114,28 @@ font-size: 14px;
 color: #535353;
 font-family: 'Inter-regular';
 }
-.box-f-2{
-font-size: 24px;
+.title-f-2{
+font-size: 20px;
+font-family: 'Inter-regular';
+margin-bottom: 71px;
 }
 .nav-li{
-padding-bottom: 20px;
+padding-bottom: 48px;
 color: #1E1E1E;
 }
 
 .nav-a{
-    color: #535353;
-    font-size: 14px;
+color: #535353;
+font-size: 14px;
+font-family: 'Inter-regular';
 }
-.
+.box-en {
+width: 80px;
+height: 45px;
+padding: 14px 16px 14px 16px;
+background-color:   #054A68;
+text-align: center;
+font-size: 14px;
+color: #ffffff;
+font-family: 'Inter-regular';
+}
