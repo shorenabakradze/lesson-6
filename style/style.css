@@ -26,23 +26,22 @@ font-size: 20px;
 font-family: 'Inter-regular';
 margin-top: 16px 288px 0px 288px;
 }
+/* section */
 
 .section-box {
+height: 908px;
+width: 1336px;
 display: flex;
 justify-content: center;
 flex-wrap: wrap;
-height: 908px;
-width: 1336px;
-margin: 0 auto;
+
+}
+.box {
+Width: 310px;
+Height: 430px;
+margin: 8px;
 }
 
-.box {
-height: 430px;
-width: 310px;
-/* margin: 0 auto; */
-/* margin-right: 48px;
-margin-left:30px; */
-}
 .title-a {
 color: #282828;
 font-size: 18px;
@@ -70,3 +69,4 @@ padding-right: 16px;
     padding-left: 16px;
     padding-top: 24px;
 }
+/* footer */
